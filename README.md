@@ -2,7 +2,7 @@
 - 👀 I’m interested in tranfering to data industry.
 - 🌱 I’m currently learning data analytics, Python, SQL
 - 💞️ I’m looking to collaborate on anything I can help with... rock climbing, scuba diving, abseiling, construction industry...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adam-kubalica-787a79220/)
+- 📫 How to reach me: <td><a href="https://www.linkedin.com/in/adam-kubalica-787a79220/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/16519424/adam-kubalica" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/stackoverflow-square-small-f48024-FFFFFF.png" alt="Stack icon" width="20" height="20" border="0" /></a>&nbsp;&nbsp;</td>
 
 PS I hate coriander!
 
